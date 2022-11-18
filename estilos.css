@@ -1,0 +1,89 @@
+main{
+    background-image: url("assets/cars5.png");
+    background-size:cover;
+    background-attachment: fixed;
+}
+.border{
+    background-color: #ff0000;
+    border-radius: 20 20 20 20;
+    border-color: white;
+    font-size: 40px;
+    color:white;
+    font-weight: bolder;
+    
+}
+.border:hover{
+    background-color: #ff0000;
+    color: white;
+}
+.img{
+    width: 400px;
+    height: auto;
+}
+.box{
+    padding: 30px;
+    font-size:large;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    border-radius: 20%;
+    border-color: 20 20 20 20 #ff0000 !important;
+    width: 85px;
+    height: auto;
+}
+.box-2{
+
+    padding: 30px;
+    font-size:xx-small;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    border-radius: 20%;
+    border-color: 20 20 20 20 #ff0000 !important;
+    width: 85px;
+    height: auto;
+    text-align: center;
+}
+.box-3{
+
+    padding: 30px;
+    font-size:large;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    border-radius: 20%;
+    border-color: 20 20 20 20 #ff0000 !important;
+    width: 400px;
+    height: auto;
+}
+
+.cuenta {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 60px;
+}
+
+.simply-section {
+	background: #fff;
+	width: 80px;
+	height: auto;
+	margin: 0 20px;
+	border-radius: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    text-align: center;
+}
+
+.simply-amount {
+	display: block;
+	font-size: 30px;
+	font-weight: bolder;
+    text-align: center;
+}
+
+.simply-word {
+	font-weight: bolder;
+	font-size: 10px;
+    text-align: center;
+}
