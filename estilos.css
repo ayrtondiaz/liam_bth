@@ -21,8 +21,9 @@ main{
     height: auto;
 }
 .box{
-    margin-left: 20px !important;
+    /* margin-left: 20px !important; */
     padding: 30px;
+    font-size:large;
     color: white;
     font-weight: bolder;
     background-color: #ff0000;
